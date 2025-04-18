@@ -1,0 +1,4 @@
+sudo asr restore \
+  --source /Volumes/Install\ macOS\ Mojave/InstallESD.dmg \
+  --target /Volumes/MyVolume \
+  --erase --noprompt
